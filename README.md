@@ -22,7 +22,7 @@ This repository contains a **Simple Library Management System** implemented in *
    ```
 2. Navigate to the project folder:
    ```sh
-   cd Simple-Library-Management-System
+   cd -Simple-Library-Management-System-JAVA-
    ```
 3. Compile and run the Java application:
    ```sh
