@@ -18,7 +18,7 @@ This repository contains a **Simple Library Management System** implemented in *
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Simple-Library-Management-System.git
+   git clone https://github.com/Eyadeltaher/-Simple-Library-Management-System-JAVA-.git
    ```
 2. Navigate to the project folder:
    ```sh
